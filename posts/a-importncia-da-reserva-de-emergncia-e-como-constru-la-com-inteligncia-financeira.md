@@ -43,9 +43,9 @@ Faça um orçamento mensal detalhado e identifique áreas onde você pode econom
 
 Para evitar a tentação de gastar sua reserva de emergência, mantenha-a separada de suas outras contas bancárias. Considerando abrir uma conta poupança exclusiva para esse fim. Algumas instituições financeiras até oferecem modalidades específicas para essa finalidade.
 
-### Passo 5: Revise e ajuste periodicamente
+### Passo 5: Monitorar e ajustar o plano conforme necessário
 
-É importante revisar e ajustar seu plano de reserva de emergência regularmente. Por exemplo, se suas despesas aumentaram ou se você conseguiu um novo emprego com salário maior, ajuste suas metas de economia e orçamento conforme necessário.
+É fundamental acompanhar o progresso do seu plano de reserva de emergência e fazer ajustes conforme as mudanças em sua vida. Isso inclui alterações nas despesas, aumento de salário ou alteração nas metas financeiras. Fique atento e faça modificações no seu orçamento e metas de poupança conforme for necessário.
 
 ## Conclusão
 
