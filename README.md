@@ -23,3 +23,6 @@
 - Na aba "Conversation", será possível ver o histórico dos comentários e a revisão feita pelo ChatGPT
 ![image](https://user-images.githubusercontent.com/91087085/236934332-4cbdeca9-570f-4cb5-9968-35cc3b5d1ff4.png)
 - Se tudo estiver ok, basta dar "Merge pull request"
+- Após o merge, a branch do blog-post-ano-mês-dia pode ser excluída
+![image](https://user-images.githubusercontent.com/91087085/236934684-7ba71eb1-6456-43ee-9f1c-f59d2d3dcc42.png)
+
